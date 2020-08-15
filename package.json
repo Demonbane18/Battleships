@@ -7,8 +7,8 @@
     "start": "node server",
     "dev": "nodemon server"
   },
+  "type": "git",
   "repository": {
-    "type": "git",
     "url": "git+https://github.com/Demonbane18/Battleships"
   },
   "keywords": [],
