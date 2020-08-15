@@ -22,6 +22,14 @@ body {
   font-size: 8rem;
 }
 
+.splash-subtitle {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 2rem;
+  display: flex;
+  justify-content: center;
+  color: #515152
+}
+
 .splash-battleship-image {
   position: absolute;
   bottom: 0vh;
@@ -34,14 +42,14 @@ body {
 
 .btn {
   font-size: inherit;
-  background-color: hsl(5, 100%, 50%);
+  background-color: hsl(10, 100%, 50%);
   padding: .5em 1em;
   outline: none;
   border: none;
   text-decoration: none;
   cursor: pointer;
   border-radius: .2em;
-  color: 	#dbd9d7;
+  color: 	#FFFF00;
 }
 
 .btn:hover, .btn:focus {
