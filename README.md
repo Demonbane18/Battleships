@@ -12,7 +12,8 @@ Clone or download the repository, Install the dependencies on the terminal using
 ```npm install```
 Start the server by 
 ```npm run start``` or ```npm run dev``` with nodemon
-You can also launch the app using heroku by connecting the git repository and then pull from the master branch and deploy
+You can also launch the app using heroku by connecting the git repository and then pull from the master branch and deploy.
+You can play it online here https://demonbane-battleships.herokuapp.com/ (may not be live at all times)
 ## Technologies Used
 
 **Back end:**
