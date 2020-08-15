@@ -40,6 +40,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* [Ahdab Nasir](https://github.com/AhdabNasir)
+* [CodeStackr](https://github.com/codeSTACKr)
+*[WebDevSimplified](https://github.com/WebDevSimplified)
+*[kubowania](https://github.com/kubowania)
 
 
